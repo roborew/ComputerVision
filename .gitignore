@@ -1,3 +1,4 @@
 **/Datasets/
 **/coco-text/
 pytorch_mask_rcnn/OCR/coco-text
+pytorch_mask_rcnn/labpics/0.torch
