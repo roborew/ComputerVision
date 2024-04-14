@@ -1,4 +1,8 @@
 **/Datasets/
+**/Results/
 **/coco-text/
 pytorch_mask_rcnn/OCR/coco-text
-pytorch_mask_rcnn/labpics/0.torch
+pytorch_mask_rcnn/labpics/*.torch
+object_counting/yolov5s.pt
+object_counting/yolov5x.pt
+yolov5s.pt
